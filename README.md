@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Final-Project-Tableauu
 
 ## Project/Goals
 This project aims to analyze and visualize FAA Wildlife Strikes data from 2015 to identify trends, patterns, and insights that can help in understanding and possibly mitigating such incidents in the future.
